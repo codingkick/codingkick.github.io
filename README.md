@@ -1,1 +1,1 @@
-# codingkick.github.io/websites
+# codingkick.github.io/websites/urls.py
