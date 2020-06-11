@@ -1,1 +1,1 @@
-# codingkick.github.io/index.html
+# codingkick.github.io/websites
